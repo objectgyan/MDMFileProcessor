@@ -1,0 +1,13 @@
+DeviceId,Name,Description,Type,Location,InstallationDate,Status
+DEV001,Main Server,Primary processing server,Server,Server Room A,2023-01-15,Active
+DEV002,Backup Server,Secondary processing unit,Server,Server Room B,2023-01-15,Standby
+DEV003,Network Switch 1,Core network switch,Network,Communication Room,2023-02-01,Active
+DEV004,Temperature Sensor 1,Environmental monitor,Sensor,Production Floor,2023-03-15,Active
+DEV005,Security Camera 1,Main entrance camera,Camera,Building Entrance,2023-04-01,Active
+DEV006,Access Control,Card reader system,Security,Main Gate,2023-04-15,Active
+DEV007,UPS System,Backup power supply,Power,Power Room,2023-05-01,Active
+DEV008,Fire Alarm Panel,Central fire detection system,Safety,Control Room,2023-05-15,Active
+DEV009,HVAC Controller,Climate control system,Environmental,Utility Room,2023-06-01,Active
+DEV010,Router 01,Main internet router,Network,Server Room A,2023-06-15,Active
+INVALID,,Missing required fields,Network,,2023-07-01,Unknown
+DEV011,Test Device,Description too long................................................................................................................................................................................,Sensor,Lab,2023-07-15,Testing
